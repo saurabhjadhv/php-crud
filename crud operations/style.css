@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+
+h2 {
+    font-size: 2rem !important;
+    color: antiquewhite !important;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+label {
+    display: inline-block;
+    color: white;
+}
